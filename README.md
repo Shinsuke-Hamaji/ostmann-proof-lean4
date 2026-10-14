@@ -1,1 +1,0 @@
-# ostmann-proof-lean4
